@@ -1,0 +1,2 @@
+git config user.name "Anonymous"
+git config user.email "anonymous@example.com"
